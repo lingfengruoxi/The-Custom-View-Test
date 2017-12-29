@@ -1,2 +1,2 @@
 # The-Custom-View-Test
-just my practice
+this is my first GitHub repository
